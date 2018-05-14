@@ -1,0 +1,18 @@
+{
+  "name": "xlsx-rounding-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  },
+  "dependencies": {
+    "xlsx": "^0.12.12"
+  }
+}
